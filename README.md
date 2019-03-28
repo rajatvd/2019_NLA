@@ -1,8 +1,11 @@
 ## Numerical Linear Algebra, August-December 2019
 
 <font color="magenta">Credits:</font>
+
 <font color="magenta">When:</font>
+
 <font color="magenta">Where:</font>
+
 
 You can use the [editor on GitHub](https://github.com/sivaramambikasaran/NLA_19/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
