@@ -1,10 +1,10 @@
 ## Numerical Linear Algebra, August-December 2019
 
-<font color="magenta">Credits: 9</font>
+####Credits: 9####
 
-<font color="magenta">When: 'C' slot</font>
+####When: 'C' slot####
 
-<font color="magenta">Where: NAC 504</font>
+####Where: NAC 504####
 
 
 You can use the [editor on GitHub](https://github.com/sivaramambikasaran/NLA_19/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
